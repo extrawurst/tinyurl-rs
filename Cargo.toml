@@ -1,7 +1,9 @@
 [package]
 name = "tinyurl-rs"
 version = "0.1.0"
+description = "Crate to simplify using tinyurl.com to shorten long urls in async rust."
 edition = "2021"
+license-file = "LICENSE"
 
 [dependencies]
 async-trait = "0.1"
