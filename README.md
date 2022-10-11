@@ -8,3 +8,11 @@ Supported endpoints:
 * `/create`
 
 see https://tinyurl.com/app/dev
+
+# example
+
+run
+
+```
+TOKEN=<your tinyurl token> cargo r --example simple
+```
